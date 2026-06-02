@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+__pycache__/
+
+# Raw and processed data (not redistributed)
+Data:/
+data/
+
+# Output CSVs (intermediate; regenerate by running notebooks)
+outputs/*.csv
+
+# Claude Code configuration
+.claude/
+CLAUDE.md
+
+# Draft documents (not for public release)
+docs/policy_brief.md
+
+# macOS system files
+.DS_Store
