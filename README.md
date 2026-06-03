@@ -10,9 +10,9 @@ This repository contains the analysis code for a study of educational inequality
 
 ## Key Findings
 
-- The arithmetic gap between government and private school students is present from grade 1 and persists through grade 8; cluster-robust bootstrap confidence intervals exclude zero at every national grade level.
+- The arithmetic gap between government and private school students is present from grade 1 and remains statistically robust at every national grade level; cluster-robust bootstrap confidence intervals exclude zero at every grade.
 - Seventy-eight percent of observed dropouts occur in middle and secondary school (grades 6-10). School stage (middle or secondary) and education expenditure are the top predictors in the dropout risk model.
-- Household electricity access is the strongest correlate of absolute government school arithmetic scores (r = 0.42), and is more predictive than other binary asset measures.
+- Household electrification rate is the strongest district-level correlate of absolute government school arithmetic scores (r = 0.42).
 - Mean pupil-teacher ratio in government schools (28.1) is approximately 60 percent higher than in private schools (17.6), after excluding recorded ratios above 100:1 as data errors. Medians follow the same direction (24.8 vs 15.9). Teacher attendance in government schools is approximately 7 percentage points lower than in private schools.
 - Textbook availability in government Grade 2 classrooms averages 17.9 percent nationally; Punjab government schools average 35.7 percent, more than double the national figure.
 - Twelve districts (11 in Punjab, 1 in KPK) show a statistically significant government school advantage over private schools under bootstrap testing. Six of these also exceed national government-school benchmarks on three or more operational resource metrics.
@@ -61,8 +61,8 @@ export ASER_CHILD_XLSX=/path/to/ITAASER2023Child.xlsx
 Requires Python 3.9 or later.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sherazhassan7/educational-inequality-pakistan.git
+cd educational-inequality-pakistan
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
