@@ -14,7 +14,7 @@ This repository contains the analysis code for a study of educational inequality
 - Seventy-eight percent of observed dropouts occur in middle and secondary school (grades 6-10). School stage (middle or secondary) and education expenditure are the top predictors in the dropout risk model.
 - Mean pupil-teacher ratio in government schools (28.1) is approximately 60 percent higher than in private schools (17.6), after excluding recorded ratios above 100:1 as data errors. Medians follow the same direction. Teacher attendance in government schools is approximately 13 percentage points lower than in private schools.
 - Textbook availability in government Grade 2 classrooms averages 17.9 percent nationally; Punjab government schools average 35.7 percent, more than double the national figure.
-- Twelve candidate districts (11 in Punjab, plus Haripur in KPK) were tested for a government-school advantage under village-cluster bootstrap; eleven retain a confidence interval excluding zero. Several also exceed national government-school benchmarks on multiple operational resource metrics.
+- Twelve districts where government schools lead (eleven in Punjab, plus Haripur in KPK) were verified under a village-cluster bootstrap; all twelve retain a 95% confidence interval entirely below zero. Several also exceed national government-school benchmarks on multiple operational resource metrics.
 
 ## Notebooks
 
