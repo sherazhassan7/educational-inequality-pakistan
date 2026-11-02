@@ -86,7 +86,7 @@ jupyter notebook
 
 ## Related writing
 
-I wrote about government and private schooling in Pakistan in an op-ed for *Pakistan Today*, "We Never Did the Sums" (July 2026).
+I wrote about what this data shows in an op-ed for *Pakistan Today*: ["We Never Did the Sums"](https://www.pakistantoday.com.pk/2026/07/28/we-never-did-the-sums-2) (July 2026).
 
 ## License
 
